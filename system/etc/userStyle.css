@@ -1,7 +1,0 @@
-@font-face { font-family: -ua-default; font-style: normal; font-weight: normal; src: url("res:///system/fonts/DroidSansFallback.ttf") }
-@font-face { font-family: -ua-default; font-style: italic, oblique; font-weight: normal; src: url("res:///system/fonts/DroidSansFallback.ttf") }
-@font-face { font-family: -ua-default; font-style: normal; font-weight: bold; src: url("res:///system/fonts/DroidSansFallback.ttf") }
-@font-face { font-family: -ua-default; font-style: italic, oblique; font-weight: bold; src: url("res:///system/fonts/DroidSansFallback.ttf") }
-html, body { margin-right:0%; margin-left:0%; }
-div.block, div.chapter { margin-right:0; margin-left:0; display: block; }
-
