@@ -1,0 +1,6 @@
+TaskID : 172670
+Project : Vivo
+SKU : HTC WWE[405]
+ROM Ver : 1.36.405.1
+Customization Id : 114518
+RCMS Id : 328
