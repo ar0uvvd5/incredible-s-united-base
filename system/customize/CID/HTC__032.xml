@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customization_form>
+  <category name="system">
+    <module name="locale">
+      <function>
+        <set name="single">
+          <item name="total_list">cs_CZ;cs_EE;cs_HU;cs_LT;cs_LV;cs_PL;cs_RO;cs_SK;en_CZ;en_EE;en_HU;en_LT;en_LV;en_PL;en_RO;en_SK;hu_CZ;hu_EE;hu_HU;hu_LT;hu_LV;hu_PL;hu_RO;hu_SK;pl_CZ;pl_EE;pl_HU;pl_LT;pl_LV;pl_PL;pl_RO;pl_SK;ro_CZ;ro_EE;ro_HU;ro_LT;ro_LV;ro_PL;ro_RO;ro_SK;ru_CZ;ru_EE;ru_HU;ru_LT;ru_LV;ru_PL;ru_RO;ru_SK;sk_CZ;sk_EE;sk_HU;sk_LT;sk_LV;sk_PL;sk_RO;sk_SK;</item>
+          <item type="boolean" name="cs_CZ">yes</item>
+          <item type="boolean" name="cs_EE">yes</item>
+          <item type="boolean" name="cs_HU">yes</item>
+          <item type="boolean" name="cs_LT">yes</item>
+          <item type="boolean" name="cs_LV">yes</item>
+          <item type="boolean" name="cs_PL">yes</item>
+          <item type="boolean" name="cs_RO">yes</item>
+          <item type="boolean" name="cs_SK">yes</item>
+          <item type="boolean" name="en_CZ">yes</item>
+          <item type="boolean" name="en_EE">yes</item>
+          <item type="boolean" name="en_HU">yes</item>
+          <item type="boolean" name="en_LT">yes</item>
+          <item type="boolean" name="en_LV">yes</item>
+          <item type="boolean" name="en_PL">yes</item>
+          <item type="boolean" name="en_RO">yes</item>
+          <item type="boolean" name="en_SK">yes</item>
+          <item type="boolean" name="hu_CZ">yes</item>
+          <item type="boolean" name="hu_EE">yes</item>
+          <item type="boolean" name="hu_HU">yes</item>
+          <item type="boolean" name="hu_LT">yes</item>
+          <item type="boolean" name="hu_LV">yes</item>
+          <item type="boolean" name="hu_PL">yes</item>
+          <item type="boolean" name="hu_RO">yes</item>
+          <item type="boolean" name="hu_SK">yes</item>
+          <item type="boolean" name="pl_CZ">yes</item>
+          <item type="boolean" name="pl_EE">yes</item>
+          <item type="boolean" name="pl_HU">yes</item>
+          <item type="boolean" name="pl_LT">yes</item>
+          <item type="boolean" name="pl_LV">yes</item>
+          <item type="boolean" name="pl_PL">yes</item>
+          <item type="boolean" name="pl_RO">yes</item>
+          <item type="boolean" name="pl_SK">yes</item>
+          <item type="boolean" name="ro_CZ">yes</item>
+          <item type="boolean" name="ro_EE">yes</item>
+          <item type="boolean" name="ro_HU">yes</item>
+          <item type="boolean" name="ro_LT">yes</item>
+          <item type="boolean" name="ro_LV">yes</item>
+          <item type="boolean" name="ro_PL">yes</item>
+          <item type="boolean" name="ro_RO">yes</item>
+          <item type="boolean" name="ro_SK">yes</item>
+          <item type="boolean" name="ru_CZ">yes</item>
+          <item type="boolean" name="ru_EE">yes</item>
+          <item type="boolean" name="ru_HU">yes</item>
+          <item type="boolean" name="ru_LT">yes</item>
+          <item type="boolean" name="ru_LV">yes</item>
+          <item type="boolean" name="ru_PL">yes</item>
+          <item type="boolean" name="ru_RO">yes</item>
+          <item type="boolean" name="ru_SK">yes</item>
+          <item type="boolean" name="sk_CZ">yes</item>
+          <item type="boolean" name="sk_EE">yes</item>
+          <item type="boolean" name="sk_HU">yes</item>
+          <item type="boolean" name="sk_LT">yes</item>
+          <item type="boolean" name="sk_LV">yes</item>
+          <item type="boolean" name="sk_PL">yes</item>
+          <item type="boolean" name="sk_RO">yes</item>
+          <item type="boolean" name="sk_SK">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData">
+      <function>
+        <set name="single">
+          <item name="device_name">HTC Incredible S S710e</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData1">
+      <function>
+        <set name="single">
+          <item name="sw_number">NA</item>
+        </set>
+      </function>
+    </module>
+    <module name="Settings">
+      <function name="screen_timeout">
+        <set name="plenty">
+          <item name="value1">15000</item>
+          <item name="value2">30000</item>
+          <item name="value3">60000</item>
+          <item name="value4">120000</item>
+          <item name="value5">600000</item>
+          <item name="value6">-1</item>
+        </set>
+      </function>
+    </module>
+    <module name="InputMethod">
+      <function name="IME_language_set">
+        <set name="single">
+          <item type="boolean" name="English">yes</item>
+          <item type="boolean" name="German">yes</item>
+          <item type="boolean" name="France">yes</item>
+          <item type="boolean" name="Italian">yes</item>
+          <item type="boolean" name="Spanish">yes</item>
+          <item type="boolean" name="Russian">yes</item>
+          <item type="boolean" name="Czech">yes</item>
+          <item type="boolean" name="Danish">yes</item>
+          <item type="boolean" name="Swedish">yes</item>
+          <item type="boolean" name="Norwegian">yes</item>
+          <item type="boolean" name="Dutch">yes</item>
+          <item type="boolean" name="Polish">yes</item>
+          <item type="boolean" name="Portugal">yes</item>
+          <item type="boolean" name="Greek">yes</item>
+          <item type="boolean" name="Turkish">yes</item>
+          <item type="boolean" name="Finnish">yes</item>
+          <item type="boolean" name="Hungarian">yes</item>
+          <item type="boolean" name="Romanian">yes</item>
+          <item type="boolean" name="Slovak">yes</item>
+        </set>
+      </function>
+      <function name="IME_sip_set">
+        <set name="single">
+          <item name="total_list">Handwriting;ZuhYin;CangJie;PinYin;Stroke;</item>
+          <item type="boolean" name="ZuhYin">yes</item>
+          <item type="boolean" name="CangJie">yes</item>
+          <item type="boolean" name="PinYin">yes</item>
+          <item type="boolean" name="Stroke">yes</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="application">
+    <module name="Crash_Report">
+      <function name="setting">
+        <set name="single">
+          <item name="turn_off_report" type="boolean">no</item>
+        </set>
+      </function>
+    </module>
+    <module name="HtcPhone">
+      <function name="specificDialNumbers">
+        <set name="single">
+          <item name="numbers">92,93,94</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <BootConfiguration>
+    <BootAnimation animation="/system/customize/resource/bootanimation.zip" audio="/system/customize/resource/android_audio.mp3" />
+  </BootConfiguration>
+  <ShutdownConfiguration>
+    <ShutdownAnimation image_png="/system/customize/resource/downanimation.zip" image="" fps="15" />
+  </ShutdownConfiguration>
+</customization_form>
